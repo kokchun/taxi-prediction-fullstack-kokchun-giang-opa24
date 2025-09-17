@@ -1,1 +1,3 @@
-# taxi-prediction-fullstack-kokchun-giang-opa24
+# Taxi prediction lab 
+
+TODO: add selling/marketing explanations of what this project is about :)
